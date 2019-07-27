@@ -7,18 +7,25 @@ List of known DeFi apps smart contracts
 ## MakerDao 
 SaiTub
 0x448a5065aebb8e423f0896e6c5d525c040f59af3
+
 DSToken
 0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359
+
 SaiTap
 0xbda109309f9fafa6dd6a9cb9f1df4085b27ee8ef
+
 WETH9
 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+
 SaiVox
 0x9b0f70df76165442ca6092939132bbaea77f2d7a
+
 SaiTop
 0x9b0ccf7c8994e19f39b2b4cf708e0a7df65fa8a3
+
 DSToken
 0xf53ad2c6851052a81b42133467480961b2321c09
+
 DSToken
 0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2 
 
@@ -33,8 +40,10 @@ DSToken
 
 KyberNetwork
 0x964F35fAe36d75B1e72770e244F6595B68508CF5
+
 KyberReserve
 0x63825c174ab367968ec60f061753d3bbd36a0d8f
+
 KyberNetworkProxy
 0x818E6FECD516Ecc3849DAf6845e3EC868087B755
 
@@ -46,8 +55,10 @@ KyberNetworkProxy
 
 Exchange
 0x12459c951127e0c374ff9105dda097662a027093
+
 Exchange
 0x4f833a24e1f95d70f028921e27040ca56e09ab0b
+
 Forwarder
 0x5468a1dc173652ee28d249c271fa9933144746b1 
 
