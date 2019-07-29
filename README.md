@@ -2,9 +2,33 @@
 List of known DeFi apps smart contracts 
 
 ## DyDx 
-0xa8b39829cE2246f89B31C013b8Cde15506Fb9A76
+
+SoloMargin	Main dYdX contract	0x1E0447b19BB6EcFdAe1e4AE1694b0C3659614e4e
+
+PayableProxyForSoloMargin	WETH wrapper proxy	0xa8b39829cE2246f89B31C013b8Cde15506Fb9A76
+
+PolynomialInterestSetter	Sets interest rates	0xae089c1c5de5ea6a1e8e77069c7a787172b2e460
+
+Expiry	Handles account expiries	0x0ECE224FBC24D40B446c6a94a142dc41fAe76f2d
+
+DaiPriceOracle	Price oracle for DAI	0x787F552BDC17332c98aA360748884513e3cB401a
+
+WethPriceOracle	Price oracle for WETH	0xf61AE328463CD997C7b58e7045CdC613e1cFdb69
+
+UsdcPriceOracle	Price oracle for USDC	0x52f1c952A48a4588f9ae615d38cfdbf8dF036e60
+
+AdminImpl	SoloMargin library containing admin functions	0x8a6629fEba4196E0A61B8E8C94D4905e525bc055
+
+OperationImpl	SoloMargin library containing operation functions	0x56E7d4520ABFECf10b38368b00723d9BD3c21ee1
+
+LiquidatorProxyV1ForSoloMargin	Proxy contract for liquidating other accounts	0xD4B6cd147ad8A0D5376b6FDBa85fE8128C6f0686
+
+LimitOrders	Contract for making limit orders using dYdX funds	0xeb32d60A5cDED175cea9aFD0f2447297C125F2f4
+
+[source](https://docs.dydx.exchange/#/contracts)
 
 ## MakerDao 
+
 SaiTub
 0x448a5065aebb8e423f0896e6c5d525c040f59af3
 
