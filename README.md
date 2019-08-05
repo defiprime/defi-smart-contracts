@@ -118,4 +118,5 @@ KernelEscrow: 0xaf38668f4719ecf9452dc0300be3f6c83cbf3721
 KyberConnector: 0x521550e569bc80f1b4957c4f3fd3d677d9ca31f1
 
 UniswapConnector: 0x9550050d102ff42a2a683a9fa23b8f3fb2b378c8
+
 [source](https://github.com/NuoNetwork/nuo-audited-contracts)
