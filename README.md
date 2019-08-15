@@ -27,6 +27,8 @@ LimitOrders	Contract for making limit orders using dYdX funds	0xeb32d60A5cDED175
 
 [source](https://docs.dydx.exchange/#/contracts)
 
+[smart contract audits](https://help.dydx.exchange/en/articles/2906504-how-can-i-trust-that-my-funds-are-safe) 
+
 ## Fulcrum 
 
 Mainnet iDAi: 0x14094949152eddbfcd073717200da82fed8dc960
