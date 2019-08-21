@@ -126,3 +126,7 @@ UniswapConnector: 0x9550050d102ff42a2a683a9fa23b8f3fb2b378c8
 ## Instadapp 
 
 Bridge smart contract 0x37acfef331e6063c8507c2a69c97b4f78c770a5a
+
+## Soda Netowork
+
+0x669498dd7f02674b22eec994dcffc34dc8cbf32c
